@@ -1,0 +1,37 @@
+@font-face{
+	font-family: 'OpenSans';
+	src: url(OpenSans/OpenSans-Light.ttf) format("truetype");
+	font-style: normal;
+	font-weight: 300;
+}
+@font-face{
+	font-family: 'OpenSans';
+	src: url(OpenSans/OpenSans-Regular.ttf) format("truetype");
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face{
+	font-family: 'OpenSans';
+	src: url(OpenSans/OpenSans-Semibold.ttf) format("truetype");
+	font-style: normal;
+	font-weight: 600;
+}
+
+@font-face{
+	font-family: 'SourceSans';
+	src: url(SourceSans/SourceSansPro-Regular.otf) format("opentype");
+	font-style: normal;
+	font-weight: 400;
+}
+@font-face{
+	font-family: 'SourceSans';
+	src: url(SourceSans/SourceSansPro-It.otf) format("opentype");
+	font-style: italic;
+	font-weight: 400;
+}
+@font-face{
+	font-family: 'SourceSans';
+	src: url(SourceSans/SourceSansPro-Semibold.otf) format("opentype");
+	font-style: normal;
+	font-weight: 600;
+}
